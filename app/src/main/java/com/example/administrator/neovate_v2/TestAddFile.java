@@ -5,4 +5,5 @@ package com.example.administrator.neovate_v2;
  */
 public class TestAddFile {
     int x =6;
+    int y=7;
 }
